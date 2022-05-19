@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vlzahariev
 - 👀 I’m interested in programming with Python
-- 🌱 I’m currently learning Programming Fundamentals with Python
+- 🌱 I’m currently learning Python Advanced and OOP
 - 💞️ I’m looking to collaborate on ... TBD
 - 📫 How to reach me: you can find me here.
 
